@@ -3,7 +3,7 @@
     "description": "Laravel Admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "chart", "form"],
-    "homepage": "git@github.com:cyd622/Laravel-Admin.git",
+    "homepage": "https://github.com/cyd622/Laravel-Admin",
     "license": "MIT",
     "authors": [
         {
