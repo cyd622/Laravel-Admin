@@ -3,10 +3,12 @@
     "description": "Laravel Admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "chart", "form"],
-    "homepage": "http://git.oschina.net/cyd622/laravel-admin",
+    "homepage": "git@github.com:cyd622/Laravel-Admin.git",
+    "license": "MIT",
     "authors": [
         {
-            "name": "cyd622"
+            "name": "cyd622",
+            "email": "luffywang622@gmail.com"
         }
     ],
     "require": {
